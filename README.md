@@ -14,24 +14,20 @@ In this data preparation phase
 - data cleaning and formating
 ## DATA ANALYSIS
 #### PRODUCT PERFORMANCE BY AGE
-
+![Order by Age](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/8d6d78c2-e186-4cd7-8e84-6783c8f6b5ae)
 #### PRODUCT PERFORMANCE BY LOACTION
-
-
+![Order by Location](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/476c14a3-1c0a-487b-aa0c-fadd2fb1ddf4)
 #### PRODUCT PERFORMANCE BY GENDER
-
-
+![Order by Gender](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/6baa1d7a-fbb2-408a-8fdb-4e6b392730da)
 #### PRODUCT PERFORMANCE BY SEASON
-
-
+![Order by Season](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/3a41e1ef-3ec9-4004-b021-24b50cbe8e3b)
 #### PRODUCT PERFORMANCE BY COLOR
-
-
+![Order by Color](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/963bf48d-3413-4225-8445-5f56d5616a99)
 #### PRODUCT PERFORMANCE BY PAYMENT METHOD
-
+![Order by Payment Method](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/f08aea21-a75b-4a05-9056-dfed57dcc094)
 ## DASHBOARD
 This is what our dashboard looks like
-
+![My dashboard](https://github.com/Luchytonia/CAMPAIGN-DASHBOARD./assets/54556297/9115948d-b7f8-4184-a697-ef05b6ffae1a)
 ## CONCLUSION/FINDINGS
 My findings is summarized as follows.
 - Generally we have less females purchasing our products as against male
